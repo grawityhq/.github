@@ -4,7 +4,7 @@
 
 # Grawity
 
-**Software that runs coaching institutes.**
+**Software that makes your life easy**
 
 Grawity builds GIMS — a multi-tenant institute management platform — along with
 the identity, classroom, and web tooling that surrounds it.
